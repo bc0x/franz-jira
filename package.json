@@ -1,0 +1,13 @@
+{
+  "id": "jira",
+  "name": "jira",
+  "version": "0.0.1",
+  "description": "Jira",
+  "main": "index.js",
+  "author": "Brandon Cox <brandon.cox@pm.me>",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+  "config": {
+    "serviceURL": "https://jira.redventures.net/"
+  }
+}
